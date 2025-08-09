@@ -1,0 +1,3 @@
+[submodule "audioreactive-gpgpu-particle"]
+	path = audioreactive-gpgpu-particle
+	url = https://github.com/lewisgoing/audioreactive-gpgpu-particle-demo.git
